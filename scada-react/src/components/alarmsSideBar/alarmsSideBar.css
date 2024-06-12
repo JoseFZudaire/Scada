@@ -1,0 +1,33 @@
+.alarmsSideBar {
+    vertical-align: middle;
+    min-width: 250px;
+    height: 350px;
+    background-color: white;
+    top: 17%;
+    position: absolute;
+    border-radius: 10px;
+    right: 10px;
+}
+
+.alarmsSideBarOption {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+
+.alarmsSideBarOption:hover {
+    background-color: rgba(188, 188, 188, 0.893);
+    cursor: pointer;
+    border-color: solid rgba(128, 128, 128, 0.941);
+}
+
+.button {
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+@import url(//cdn.rawgit.com/rtaibah/dubai-font-cdn/master/dubai-font.css);
+
+.time {
+    z-index: 100;
+    position: absolute;
+    display: flex;
+    margin-right: 0px;
+    top: 0px;
+    left: 1015px;
+    width: 200px;
+    height: 35px;
+    text-wrap: wrap;
+    border: solid black 2px;
+    top: 10px;
+    
+    align-items: center;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+
+    background-color: black;
+    
+    font: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+    border-radius: 5px;
+
+}

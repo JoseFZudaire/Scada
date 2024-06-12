@@ -1,0 +1,53 @@
+.navBar {
+    height: 10vh;
+    position: relative;
+    display: flex;
+    min-height: 60px;
+}
+
+.navBarOption {
+    justify-content: space-around;
+    margin: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+    border-width: 2px;
+    background-color: lightgrey;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.763);
+    border-color: solid rgba(128, 128, 128, 0.941);
+    font: Arial, sans-serif;
+    text-wrap: wrap;
+}
+
+.navBarOption:hover {
+    background-color: rgba(0, 0, 0, 0.941);
+    color: rgb(255, 255, 255);
+}
+
+.navBarOptionSelected {
+    justify-content: space-around;
+    margin: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+    border-width: 2px;
+    background-color: rgba(0, 0, 0, 0.941);
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border-color: solid rgba(128, 128, 128, 0.941);
+    font: Arial, sans-serif;
+    text-wrap: wrap;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+

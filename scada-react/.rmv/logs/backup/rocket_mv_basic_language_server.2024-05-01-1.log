@@ -1,0 +1,4 @@
+2024-05-01 11:06:07.699 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/JZ4874/Documents/scada-react/src)
+2024-05-01 11:06:43.375 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/JZ4874/Documents/scada-react/src/views/Boiler)
+2024-05-01 11:06:51.394 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/JZ4874/Documents/scada-react/src)
+2024-05-01 11:08:34.278 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/JZ4874/Documents/scada-react/src/components/navBar)

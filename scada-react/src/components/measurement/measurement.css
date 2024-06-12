@@ -1,0 +1,16 @@
+.measurement{
+    width: 100px;
+    height: 40px;
+}
+
+.measurement:hover{
+    color: white;
+    background-color: black;
+}
+
+.measurementSelected{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: black;
+}

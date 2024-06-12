@@ -1,0 +1,13 @@
+.App {
+  background-color: grey;
+  height: 90vh;
+  position: relative;
+  display:flex; 
+  flex-direction:row;
+  min-width: 1230px;
+  min-height: 530px
+}
+ 
+.body {
+  width: 100%;
+} 
