@@ -1,2 +1,2 @@
 # Scada
-Scada of a refinery in React
+Scada of a refinery in React.
